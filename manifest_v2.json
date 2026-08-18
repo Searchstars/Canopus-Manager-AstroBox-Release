@@ -17,9 +17,9 @@
   "links": [],
   "downloads": {
     "xmb10p": {
-      "version": "1.0.0",
-      "versionCode": 65536,
-      "file_name": "canopus-installer-prod-10p-036+030.bin"
+      "version": "1.0.1",
+      "versionCode": 65537,
+      "file_name": "canopus-installer-prod-10p-036+030.v65537.bin"
     }
   },
   "ext": {}
