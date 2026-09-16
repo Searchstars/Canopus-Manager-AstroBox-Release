@@ -4,9 +4,7 @@
     "restype": "canopus",
     "name": "Canopus 模块管理器",
     "description": "为Canopus模块打造的手环端管理器与注入器。<br/><span style=\"color: #ff6b6b; font-size: 26px; font-weight: 700\">注意！！！请提前阅读文档（[https://abox.run/docs/usage/canopus/install](https://abox.run/docs/usage/canopus/install)）以了解Canopus支持的设备与对应固件版本！！！除非后续该管理器更新，否则更新固件会导致所有与Canopus关联的功能无法使用！！！每次设备重启后必须切换到该表盘重新进注入（点击Run按钮）！！！</span><br/><span style=\"color: #ff6b6b; font-size: 20px; font-weight: 700\">出于对设备安全性的考虑，从AstroBox安装的Canopus管理器只允许加载从AstroBox官方源获取的模块</span>",
-    "preview": [
-      "media/preview.png"
-    ],
+    "preview": [],
     "icon": "icon.png",
     "cover": "cover.png",
     "author": [
