@@ -34,7 +34,5 @@
       "versionCode": 65537
     }
   },
-  "ext": {
-    "enableAstroBoxCreatorFeatures": true
-  }
+  "ext": {}
 }
