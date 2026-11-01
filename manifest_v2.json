@@ -19,19 +19,19 @@
   "links": [],
   "downloads": {
     "xmb10p": {
-      "version": "2.0.2",
-      "file_name": "downloads/canopus-installer-prod-10p-043+036.v131074.bin",
-      "versionCode": 131074
+      "version": "2.0.3",
+      "file_name": "downloads/canopus-installer-prod-10p-043+036.v131075.bin",
+      "versionCode": 131075
     },
     "xmb11": {
-      "version": "2.0.2",
-      "file_name": "downloads/canopus-installer-prod-11-139+155+179.v131074.bin",
-      "versionCode": 131074
+      "version": "2.0.3",
+      "file_name": "downloads/canopus-installer-prod-11-139+155+179.v131075.bin",
+      "versionCode": 131075
     },
     "xmb11nfc": {
-      "version": "2.0.2",
-      "file_name": "downloads/canopus-installer-prod-11-139+155+179.v131074.bin",
-      "versionCode": 131074
+      "version": "2.0.3",
+      "file_name": "downloads/canopus-installer-prod-11-139+155+179.v131075.bin",
+      "versionCode": 131075
     }
   },
   "ext": {}
